@@ -23,6 +23,7 @@
   </parent>
 
   <artifactId>netty-dev-tools</artifactId>
+  <version>4.1.122.Final+sp1</version>
   <name>Netty/Dev-Tools</name>
 
   <build>
